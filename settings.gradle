@@ -1,2 +1,2 @@
-include ':app', ':startandroid2', ':startandroid3'
+include ':app', ':startandroid2', ':startandroid3', ':changeview'
 rootProject.name='StartAndroid'
